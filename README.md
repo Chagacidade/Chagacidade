@@ -1,5 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gabriel Chagas</h1>
+<h3 align="center">Starting in the world of programming</h3>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=chagacidade&show_icons=true" alt=gabrielchagas/>
+ </p>
 <!--
 **Chagacidade/Chagacidade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
